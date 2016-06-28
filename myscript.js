@@ -2,9 +2,14 @@
 (function () {
     var a = 'hi';
     function greet () {
-        console.log(a, "// in greet" );
-        var a;
+        console.log(a, "// in greet 1" );
+        var a = 'yay';
+        console.log(a, "// in greet 2" );
     }
-    console.log(a, "// out of greet");
     greet();
+    console.log(a, "// out of greet");
 })();
+
+/**
+ * Variable declarations are hoisted on top
+ */
