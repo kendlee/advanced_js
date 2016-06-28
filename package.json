@@ -1,0 +1,11 @@
+{
+  "name": "advanced_js",
+  "version": "1.0.0",
+  "description": "for training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken Lee",
+  "license": "ISC"
+}

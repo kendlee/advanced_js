@@ -1,0 +1,18 @@
+{
+  "name": "advanced_js",
+  "description": "for training",
+  "main": "index.js",
+  "authors": [
+    "Ken Lee"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
