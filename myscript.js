@@ -11,5 +11,5 @@
 })();
 
 /**
- * Variable declarations are hoisted on top
+ * Function declarations are also on hoisted on top
  */
