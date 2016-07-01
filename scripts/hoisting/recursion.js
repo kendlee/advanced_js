@@ -1,7 +1,8 @@
 (function () {
     var a = function b() {
-        return a;
-    }
+        return b;
+    };
+
     console.log(a()()());
     // console.log(b);
 })();
