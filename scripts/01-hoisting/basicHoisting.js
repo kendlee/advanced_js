@@ -6,8 +6,9 @@
         var a = 'yay';
         console.log(a, "// in greet 2" );
     }
+    console.log(a, "// out of greet 1");
     greet();
-    console.log(a, "// out of greet");
+    console.log(a, "// out of greet 2");
 })();
 
 /**
